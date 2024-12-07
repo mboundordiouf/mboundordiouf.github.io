@@ -78,6 +78,7 @@ analytics:
     tracking_id          :
 
 
+
 # Site Author
 author:
   name             : "Mboundor Diouf"
@@ -114,7 +115,8 @@ author:
   weibo            :
   xing             :
   youtube          :
-  wikipedia        :
+  Wikipedia        :
+
 
 
 # Reading Files
