@@ -12,7 +12,7 @@ author_profile: true
  * Level: Bachelor
 ## 2022 - present:
  * **History of Economics at University of Paris I, Panthéon-Sorbonne (IED-EDS)**
- *  * Level: Bachelor 
+ * Level: Bachelor 
 ## 2020 - 2022:
  * **Mathematics and Statistics at Université Clermont Auvergne.**
- *  * Level: Bachelor 
+ * Level: Bachelor 
