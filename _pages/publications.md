@@ -13,8 +13,10 @@ with [Raja Chakir](https://sites.google.com/site/rajachakir/home) and [Ahmed Tri
 
 **Abstract**: 
 This study investigates the impact of mining activity on deforestation in Sub-Saharan Africa between 2001 and 2018. Using data on the extraction of 14 minerals and deforestation across diverse regions, we apply Two-Way Fixed Effects Difference-in-Differences (TWFE-DID) methods to uncover the persistent and wide-reaching effects of mining, including prospecting activities, on forest loss. Our findings provide robust evidence that mining significantly contributes to deforestation across multiple spatial levels, including buffer zones, cells, and districts. Notably, indirect impacts surpass direct ones, with deforestation extending up to 80 km from mining sites. These results remain consistent through extensive robustness checks, accounting for fluctuations in global mineral prices. Employing causal mediation analysis, we identify key mechanisms driving deforestation, including local economic activity, agriculture, urbanization, conflict, and infrastructure development. Additionally, our study reveals nuanced variations in deforestation impacts based on mine size, mineral type, ownership structure, mining method, and regional intensity.
-
-
+---
+Deforestation rate before/after mining discovered at cell and buffer zone levels <br/><img src='/images/RESULTdeforstation.jpg'>
+---
+RESULTdeforstation
 
 Mining and Power: Energy Access in SSA
 ------
