@@ -22,4 +22,5 @@ author_profile: true
   * International Conference on Economics and Business Roads to Sustainability (ICEBRS), at the Faculty of Economics of the University of Coimbra (FEUC), Portugal.
 
 * 2022
-  * In 4th Conference on Econometrics for Environment (CE2-2022), Rabat, Morocco, 2022.
+  * Semaine data at Université de Poitiers (MSHS)
+  * 4th Conference on Econometrics for Environment (CE2-2022), Rabat, Morocco.
