@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my personal page!
 
-I am a Ph.D in Development Economics at the [University of Poitiers](https://www.univ-poitiers.fr/) and [EIEA Chair (CERNA and UM6P)](https://www.cerna.minesparis.psl.eu/Equipe/Doctorant-e-s/Mboundor-Diouf/). I am affiliated with the [LéP](https://lep.labo.univ-poitiers.fr/) and Associate Researcher at [Energy and Prosperity Chair](http://www.chair-energy-prosperity.org/en/category/research-fellows-1/mboundor-diouf-en/).
+I am a Ph.D student in Development Economics at the [University of Poitiers](https://www.univ-poitiers.fr/) and [EIEA Chair (CERNA and UM6P)](https://www.cerna.minesparis.psl.eu/Equipe/Doctorant-e-s/Mboundor-Diouf/). I am affiliated with the [LéP](https://lep.labo.univ-poitiers.fr/) and Associate Researcher at [Energy and Prosperity Chair](http://www.chair-energy-prosperity.org/en/category/research-fellows-1/mboundor-diouf-en/).
 
 Previously, I graduated with a Bachelor's and Master's (Magister) grade at [UCA (CERDI)](https://cerdi.uca.fr/#/admin).
 
