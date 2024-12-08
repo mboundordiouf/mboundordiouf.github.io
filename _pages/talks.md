@@ -13,9 +13,9 @@ author_profile: true
 * 2023
   * 93rd Annual Meeting of the Southern Economic Association (SEA), New Orleans, LA, USA.
   * CSAE Oxford Conference: Economic Development in Africa, Oxford, UK.
-  * In Interdisciplinary Ph.D. Workshop in Sustainable Development (IPWSD), at Columbia University in the City of New York, USA.
+  * Interdisciplinary Ph.D. Workshop in Sustainable Development (IPWSD), at Columbia University in the City of New York, USA.
   * Africa Meeting of the Econometric Society (AFES) at the AERC in Nairobi, Kenya.
-  * In ICDE: International Conference on Development Economics, AFEDEV, at the Paris School of Economics in Paris, France.
+  * International Conference on Development Economics, AFEDEV, at the Paris School of Economics in Paris, France.
   * Journées de Microéconomie Appliquée (JMA), at the University of Strasbourg, France.
   * International Conference on Economics and Business Roads to Sustainability (ICEBRS), at the Faculty of
 Economics of the University of Coimbra (FEUC), Portugal.
