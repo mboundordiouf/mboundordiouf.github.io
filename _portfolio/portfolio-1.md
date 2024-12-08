@@ -1,6 +1,6 @@
 ---
 title: "Show photos"
-<br/><img src='/images/500x300.png'>
+excerpt: "<br/><img src='/images/500x300.png'>"
 ---
 
 ---
@@ -15,7 +15,7 @@ Inside mining industry: treatment of mineral<br/><img src='/images/IMG_0429.jpg'
 ---
 
 ---
-Open-pit map <br/><img src='/images/IMG_0250.jpg'>
+EOpen-pit map <br/><img src='/images/IMG_0250.jpg'>
 ---
 
 ---
