@@ -20,6 +20,9 @@ main:
     
   - title: "CV"
     url: /cv/
+
+     - title: "Codes"
+    url: /codes/
     
   - title: "Photos"
     url: /portfolio/
