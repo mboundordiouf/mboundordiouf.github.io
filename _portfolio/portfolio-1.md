@@ -19,3 +19,8 @@ title: "Open pit map"
 <br/><img src='/images/IMG_0250.jpg'>
 ---
 
+---
+title: "Open pit map"
+<br/><img src='/images/IMG_0274.jpg'>
+---
+
