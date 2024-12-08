@@ -26,6 +26,6 @@ collection: portfolio
 ---
 ---
 title: "Portfolio item number 5"
-excerpt: "Short description of portfolio item number 5<br/><img src='/images/IMG_0230.jpg'>"
+excerpt: "Short description of portfolio item number 5<br/><img src='/images/IMG_0244.jpg'>"
 collection: portfolio
 ---
