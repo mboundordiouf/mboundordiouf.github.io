@@ -11,7 +11,7 @@ author_profile: true
 * 2024
   * Seminaire at Université Orléans, LéO, Orléans, France.
   * Seminaire at School of Sustainability, ASU, Tempe, Arizona, USA.
-    
+  * Global Energy Transition and Development: Africa at Crossroads Mines Paris PSL, 67 Boulevard Saint-Michel, Paris, France 
 * 2023
   * 93rd Annual Meeting of the Southern Economic Association (SEA), New Orleans, LA, USA.
   * CSAE Oxford Conference: Economic Development in Africa, Oxford, UK.
