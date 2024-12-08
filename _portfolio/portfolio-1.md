@@ -9,7 +9,7 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 
 ---
 title: "Portfolio item number 2"
-excerpt: "Short description of portfolio item number 2<br/><img src='/images/IMG_0230.jpg'>"
+excerpt: "Short description of portfolio item number 2<br/><img src='/images/IMG_02300.jpg'>"
 collection: portfolio
 ---
 
