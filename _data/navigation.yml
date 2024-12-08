@@ -20,5 +20,6 @@ main:
     
   - title: "CV"
     url: /cv/
-    - title: "Photos"
+    
+  - title: "Photos"
     url: /portfolio/
