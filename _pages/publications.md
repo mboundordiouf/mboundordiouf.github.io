@@ -45,4 +45,5 @@ with [Rose Camille Vincent](https://rosecamillevincent.com/)
 <br>
 <b> **Energy Access and Malaria in Sub-Saharan Africa** </b>.
 
+## Malaria and Electricity Access at DHS cluster levels in SSA 2000-2013: <br/><img src='/images/Malaria_Electricity.png'>
 
