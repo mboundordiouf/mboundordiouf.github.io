@@ -15,10 +15,7 @@ I am a Ph.D student in Development Economics at the [University of Poitiers](htt
 Previously, I graduated with a Bachelor's and Master's (Magister) grade at [UCA (CERDI)](https://cerdi.uca.fr/#/admin).
 
 My research are focusing on **Natural Resources** (*Mining*, *Oil* and *Gas*), **Energy**, **Sustanaible Development** and **Developement Economics** in **Africa**. 
-
-Part of my role at university is being a **Lecturer** and  **Teaching Assistant** for **Economics** courses. Outside of University, I am also a **consultant** working on different projects, especially on **Energy** and **Sustainable Development** in **Developing Countries**. 
-
-
+My recent and future works center on crucial **green energy transition** minerals, such as nickel, rare earth, copper, and cobalt mining, and **energy access** in Africa.
 
 My research interests are:
 - <font size="4">Natural resources</font>
