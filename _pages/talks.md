@@ -9,7 +9,8 @@ author_profile: true
   * Forthcoming: CSAE Oxford Conference: Economic Development in Africa, Oxford, UK.
     
 * 2024
-  * Seminaire at Université Orléans, LéO, Orléans, France.
+  * Seminaire at Université d'Orléans, LéO, Orléans, France.
+  * Seminaire at UM6P, ABS, Rabat, Morocco.
   * Seminaire at School of Sustainability, ASU, Tempe, Arizona, USA.
   * Global Energy Transition and Development: Africa at Crossroads Mines Paris PSL, 67 Boulevard Saint-Michel, Paris, France 
 * 2023
