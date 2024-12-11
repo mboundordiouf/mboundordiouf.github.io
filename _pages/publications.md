@@ -33,8 +33,7 @@ with [Raphael Soubeyran](https://sites.google.com/site/soubeyranhomepage/) and [
 **Working Paper**. Available upon request.
 
 **Abstract**
-The global energy transition, while essential, imposes considerable social and political costs, particularly in mineral-rich countries that supply critical resources. This paper examines the relationship between mining discoveries and conflict incidence in Africa from 1997 to 2022, leveraging high-resolution data at the 55x55 km grid-cell level. Using the timing of mining discoveries as an exogenous shock, our analysis reveals a significant rise in conflict during the exploration phases, particularly in the Pre-Feasibility and Feasibility stages, prior to mine operations. Notably, these conflicts—primarily social, including riots and protests, as well as conflicts over gold minerals—diminish in significance once mines become operational, as evidenced by Two-Way Fixed Effects Difference-in-Differences (TWFE-DID) estimations.
-The findings highlight substantial heterogeneity in conflict patterns based on mine size, mineral type, and ownership structure. Furthermore, through a mediation analysis, we identify key mechanisms that amplify or mitigate the effects of mining discoveries on conflict, emphasizing the role of public administration engagement in local communities. Our results remain robust under alternative specifications, including using mineral prices and various TWFE methodologies as treatment variables.
+
 
  Map: Number of conflict events in Africa 1997-2021 <br/><img src='/images/Map_number of ACLED events.png'>
 
