@@ -42,7 +42,7 @@ The findings highlight substantial heterogeneity in conflict patterns based on m
 # Work in Progress
 # Mining, local fiscality and Urbanization in Sub-Saharan Africa
 with [Rose Camille Vincent](https://rosecamillevincent.com/)
-## Map: Number of mines with size and type of minerals in Africa 1950-2019: <br/><img src='/images/Map_Mineral_Size_AFRICA_ok.PNG'>
+## Map: Number of mines with size and type of minerals in Africa 1950-2019 <br/><img src='/images/Map_Mineral_Size_AFRICA_ok.PNG'>
 
 # Energy Access and Malaria in Sub-Saharan Africa
 ## Map: Malaria and Electricity Access at DHS cluster levels in SSA 2000-2013 <br/><img src='/images/Malaria_Electricity.png'>
