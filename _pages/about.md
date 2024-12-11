@@ -26,3 +26,7 @@ My research interests are:
 - <font size="4">Applied econometrics</font>
 - <font size="4">Spatial econometrics and GIS</font>
 - <font size="4">Causal inference</font>
+
+Supervisor
+-----------
+- [Ahmed Tritah](https://sites.google.com/site/ahmtritah/)
