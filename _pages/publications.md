@@ -21,7 +21,7 @@ Mining and Power: Energy Access in SSA
 with [Nathan Johnson](https://search.asu.edu/profile/2183493) and [Tam Kemabonta ](https://scholar.google.com/citations?user=hrZlpwUAAAAJ&hl=en)
 **Working Paper**. Available upon request.
 
-## Number of mines with size and type of minerals in Africa 1950-2019: <br/><img src='/images/Map_Mineral_Size_AFRICA_ok.PNG'>
+## Number of mines with size and type of minerals in Africa 1950-2019: <br/><img src='/images/mining_electricty_ASS.png'>
 
 **Abstract**
 This study integrates spatial and georeferenced data on the discovery and mining of 32 minerals with information on power and energy access (measured by population density and night lights) across various spatial resolutions (1x1 km and 55x55 km) in sub-Saharan Africa (SSA) from 2000 to 2022. By leveraging exogenous variations in discovery years and global prices for 14 minerals, we identify a significant positive impact of mining on developing power infrastructure and local energy access. We further explore the effects of mining on electricity access, utilizing household and cohort data from Demographic and Health Surveys. Through recent event study designs, we identify the influence of mining activities on energy access. The study also examines heterogeneous effects, such as the size of mines, types of minerals, and ownership. Findings indicate that regions mining energy-intensive minerals like uranium and cobalt have the lowest energy access rates.
