@@ -13,6 +13,7 @@ with [Raja Chakir](https://sites.google.com/site/rajachakir/home) and [Ahmed Tri
 
 **Abstract**: 
 This study investigates the impact of mining activity on deforestation in Sub-Saharan Africa between 2001 and 2018. Using data on the extraction of 14 minerals and deforestation across diverse regions, we apply Two-Way Fixed Effects Difference-in-Differences (TWFE-DID) methods to uncover the persistent and wide-reaching effects of mining, including prospecting activities, on forest loss. Our findings provide robust evidence that mining significantly contributes to deforestation across multiple spatial levels, including buffer zones, cells, and districts. Notably, indirect impacts surpass direct ones, with deforestation extending up to 80 km from mining sites. These results remain consistent through extensive robustness checks, accounting for fluctuations in global mineral prices. Employing causal mediation analysis, we identify key mechanisms driving deforestation, including local economic activity, agriculture, urbanization, conflict, and infrastructure development. Additionally, our study reveals nuanced variations in deforestation impacts based on mine size, mineral type, ownership structure, mining method, and regional intensity.
+
  Figure: Deforestation rate before/after mining discovered at cell and buffer zone levels <br/><img src='/images/RESULTdeforstation.jpg'>
 
 # Mining and Power: Energy Access in SSA
@@ -25,7 +26,6 @@ This study integrates spatial and georeferenced data on the discovery and mining
 In contrast, areas producing less energy-intensive minerals, such as gold and other precious metals, show significantly higher rates. Additionally, mining operations in SSA exhibit enclave characteristics, as evidenced by significant positive spillover effects on neighboring mining cells. In addition, energy access is more significant in mining areas closer to large cities, ports, energy infrastructures, and large agricultural areas.
 
  Map: Discovery Mining (2001-2009) and Population Access of Energy (2000 and 2010) <br/><img src='/images/mining_electricty_ASS.png'>
-
 
 # The New Mining Rush: Mineral Discoveries and Social Conflicts in Africa
 ------
@@ -41,8 +41,10 @@ The findings highlight substantial heterogeneity in conflict patterns based on m
 # Work in Progress
 # Mining, local fiscality and Urbanization in Sub-Saharan Africa
 with [Rose Camille Vincent](https://rosecamillevincent.com/)
+
  Map: Number of mines with size and type of minerals in Africa 1950-2019 <br/><img src='/images/Map_Mineral_Size_AFRICA_ok.PNG'>
 
 # Energy Access and Malaria in Sub-Saharan Africa
+
  Map: Malaria and Electricity Access at DHS cluster levels in SSA 2000-2013 <br/><img src='/images/Malaria_Electricity.png'>
 
