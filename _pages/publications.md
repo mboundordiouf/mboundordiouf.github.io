@@ -47,3 +47,4 @@ with [Rose Camille Vincent](https://rosecamillevincent.com/)
 
  Map: Malaria and Electricity Access at DHS cluster levels in SSA 2000-2013 <br/><img src='/images/Malaria_Electricity.png'>
 
+# Natural Disasters Kill Natural Resources: Is Mining Investment for Energy Transition Risk?
