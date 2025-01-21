@@ -12,7 +12,7 @@ Welcome to my personal page!
 
 I am pursuing a Ph.D. in Development Economics at [University of Poitiers](https://www.univ-poitiers.fr/) and the [EIEA Chair (ABS-UM6P and Mines ParisTech)](https://www.cerna.minesparis.psl.eu/Recherche/EIEA/) under the supervision of [Ahmed Tritah](https://sites.google.com/site/ahmtritah/). Additionally, I am associated with the [LéP](https://lep.labo.univ-poitiers.fr/accueil/les-membres/diouf-mboundor/) and hold the position of Associate Researcher at the [Energy and Prosperity Chair](http://www.chair-energy-prosperity.org/en/category/research-fellows-1/mboundor-diouf-en/).
 
-During my thesis, I benefited from various training in economics, mining, energy, spatial econometrics, and GIS during my visit as a scholar to [ASU (6 months)](https://www.asu.edu/), [University of Coimbra (1 month)](https://www.uc.pt/en/), [Friedrich Schiller University Jena (7 days)](https://www.uni-jena.de/en), and [UM6P (1 year)](https://www.um6p.ma/), as well as short stays at [Columbia University (5 days)](https://www.columbia.edu/) and [University of Oxford (4 days)](https://www.ox.ac.uk/).
+During my thesis, I benefited from various training in economics, mining, energy, environmental economics, spatial econometrics, and GIS during my visit as a scholar to [ASU (6 months)](https://www.asu.edu/), [University of Coimbra (1 month)](https://www.uc.pt/en/), [Friedrich Schiller University Jena (7 days)](https://www.uni-jena.de/en), and [UM6P (1 year)](https://www.um6p.ma/), as well as short stays at [Columbia University (5 days)](https://www.columbia.edu/) and [University of Oxford (4 days)](https://www.ox.ac.uk/).
 
 Previously, I graduated with a Bachelor's and Master's (Magister) grade at [UCA (CERDI)](https://cerdi.uca.fr/#/admin).
 
