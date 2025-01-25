@@ -26,21 +26,22 @@ ABS(UM6P)), Mines Paristech and the CR-Sahel.
   *  Clermont Auvergne University - CERDI, Clermont-Ferrand (France).
   
 ## Education
+* 2024: Visiting scholar, Arizona State University, Arizona (US).
 * 2021 - 2025: PhD in Economics
   * University of Poitiers, EIEA Chair (Mines ParisTech and UM6P), Poitiers, Paris (France).
-  * PhD Thesis subject: <em>Mining, energy access, environmental degradation and local economic development in Africa</em>
+  * PhD Thesis subject: <em>Mining, energy access, environmental degradation and local economic development in Africa
   * Supervisor: Ahmed Tritah.
 * 2020 – 2021: Pre-Doctoral in Economics
   * Mines ParisTech, Paris (France).
 * 2018 – 2020: Research Master (Magister) in Development Economics
   * Clermont Auvergne University - CERDI, Clermont-Ferrand (France).
-  * Master Thesis subject: <em>Mining, energy, and environment in SSA.</em>
+  * Master Thesis subject: <em>Mining, energy, and environment in SSA.
   * Supervisors: Jean Louis Combes, Théophile Azomahou
 
-* 2017 – 2018: Bachelor in Economics </font>
+* 2017 – 2018: Bachelor in Economics 
   *Clermont Auvergne University - CERDI,
 Clermont-Ferrand (France).
-* 2014 – 2017: Bachelor in Economics  </font>
+* 2014 – 2017: Bachelor in Economics  
   * Université Cheikh Anta Diop, FASEG, Dakar (Senegal).
 
 * 2014: Baccalauréat in Sciences Physiques (S2)
