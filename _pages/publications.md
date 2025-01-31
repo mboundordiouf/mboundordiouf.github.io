@@ -33,7 +33,7 @@ with [Raphael Soubeyran](https://sites.google.com/site/soubeyranhomepage/) and [
 **Working Paper**. Available upon request.
 
 **Abstract**
-
+The global energy transition is crucial but presents social and political challenges, particularly in mineral-rich African countries. Using high-resolution data, this study examines the link between mining discoveries and conflict (1997–2022). Findings show increased conflict during exploration—mainly protests over gold—peaking in the Pre-Feasibility and Feasibility stages before declining post-production. Conflict patterns vary by mine size, mineral type, and ownership. Mechanism analysis highlights local economic development (local economic activity, electricity access, urbanization, and migration) and environmental degradation (deforestation rate and natural disasters) induced by mining, amplifying the risk of conflict and emphasizing the need for local engagement. Results hold across different specifications, including mineral prices as a treatment variable.
 
  Map: Number of conflict events in Africa 1997-2021 <br/><img src='/images/Map_number of ACLED events.png'>
 
