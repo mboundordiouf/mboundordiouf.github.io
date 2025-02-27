@@ -38,15 +38,13 @@ ABS(UM6P)), Mines Paristech and the CR-Sahel.
   * Clermont Auvergne University - CERDI, Clermont-Ferrand (France).
   * Master Thesis subject: Mining, energy, and environment in SSA.
   * Supervisors: Jean Louis Combes, Théophile Azomahou
-
 * 2017 – 2018: Bachelor in Economics 
-  *Clermont Auvergne University - CERDI,
-Clermont-Ferrand (France).
+  * Clermont Auvergne University - CERDI, Clermont-Ferrand (France).
 * 2014 – 2017: Bachelor in Economics  
   * Université Cheikh Anta Diop, FASEG, Dakar (Senegal).
-
 * 2014: Baccalauréat in Sciences Physiques (S2)
   * Lycée de Saly, Mbour (Senegal)
+    
 ## Miscellaneous Experience
 * October 2023: Geographic Data Science for Sustainability
   *  University of Jena, in Germany
