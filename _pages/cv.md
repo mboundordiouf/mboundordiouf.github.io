@@ -58,7 +58,8 @@ Clermont-Ferrand (France).
 * 2025
   * Forthcoming: CSAE Oxford Conference: Economic Development in Africa, Oxford, UK.
 * 2024
-  * Seminaire:  Université Orléans, LéO, Orléans (France)
+  * Seminaire: School of Sustainability, ASU, Tempe, Arizona, USA.
+  * Seminaire:  Université Orléans, LéO, Orléans, France.
 * 2023
   * 93rd Annual Meeting of the Southern Economic Association (SEA), New Orleans, LA, US.
   * CSAE Oxford Conference: Economic Development in Africa, Oxford, UK.
