@@ -24,7 +24,7 @@ My research interests are:
 - <font size="4">Energy Economics</font>
 - <font size="4">Environmental and Resource Economics</font>
 - <font size="4">Development economics</font>
-- <font size="4">Urbanisation</font>
+- <font size="4">Public Economics and Political Economy</font>
 - <font size="4">Applied econometrics</font>
 - <font size="4">Spatial econometrics and GIS</font>
 - <font size="4">Causal inference</font>
