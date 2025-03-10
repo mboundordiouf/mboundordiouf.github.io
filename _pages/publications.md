@@ -34,12 +34,12 @@ with [Raphael Soubeyran](https://sites.google.com/site/soubeyranhomepage/) and [
 **Working Paper**. Available upon request.
 
 **Abstract**
-The global energy transition is crucial but presents social and political challenges, particularly in mineral-rich African countries. This study uses high-resolution data to explore the relationship between mining discoveries and conflict from 1997 to 2022. Utilizing a Two-Way Fixed Effects Difference-in-Differences (TWFE-DD) design, our findings indicate that conflict increases during exploration, primarily due to protests and riots over gold minerals. This escalation peaks during the Pre-Feasibility and Feasibility stages before continuing to rise after production starts. Conflict patterns vary by mine size, mineral type, and ownership. Mechanism analysis highlights local economic development (local economic activity, electricity access, urbanization, and migration) and environmental degradation (deforestation rate and natural disasters) induced by mining, amplifying the risk of conflict and emphasizing the need for local engagement. Results are consistent across varying specifications, including the use of mineral prices as a treatment variable and adopting a Synthetic Control Differences-in-Differences design.
+The global energy transition is crucial but presents social and political challenges, particularly in mineral-rich African countries. This study uses high-resolution data to explore the relationship between mining discoveries and conflict from 1997 to 2022. Utilizing a Two-Way Fixed Effects Difference-in-Differences (TWFE-DD) design, our findings indicate that conflict increases during exploration, primarily due to protests and riots over gold minerals. This escalation peaks during the Pre-Feasibility and Feasibility stages before continuing to rise after production starts. Conflict patterns vary by mine size, mineral type, and ownership. Mechanism analysis highlights local economic development (local economic activity, electricity access, urbanization, and migration) and environmental degradation (deforestation rate and natural disasters) induced by mining, amplifying the risk of conflict and emphasizing the need for local engagement. Results are consistent across varying specifications, including using mineral prices as a treatment variable and adopting a Synthetic Control Differences-in-Differences design.
 
  Map: Number of conflict events in Africa 1997-2021 <br/><img src='/images/Map_number of ACLED events.png'>
  
 # Work in Progress
-# Mining, local fiscality and Urbanization in Sub-Saharan Africa
+# Mining, Local Governance, and Urbanization in Sub-Saharan Africa
 with [Rose Camille Vincent](https://rosecamillevincent.com/)
 
  Map: Number of mines with size and type of minerals in Africa 1950-2019 <br/><img src='/images/Map_Mineral_Size_AFRICA_ok.PNG'>
