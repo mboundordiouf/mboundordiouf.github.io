@@ -8,8 +8,7 @@ author_profile: true
 
 # Under the Canopy: Mining and Deforestation in Sub-Saharan Africa
 ------
-with [Raja Chakir](https://sites.google.com/site/rajachakir/home) and [Ahmed Tritah](https://sites.google.com/site/ahmtritah/)
-**Submitted**. Available upon request. 
+with [Raja Chakir](https://sites.google.com/site/rajachakir/home) and [Ahmed Tritah](https://sites.google.com/site/ahmtritah/). Available upon request. 
 
 **Abstract**: 
 This study examines the impact of mining on deforestation in Sub-Saharan Africa (2001–2018). Using geospatial data on 14 minerals and a Two-Way Fixed Effects Difference-in-Differences (TWFE-DID) approach, we find that mining significantly increases deforestation, with indirect effects exceeding direct ones and extending up to 80 km from mining sites. Causal mediation analysis identifies key mechanisms, including agriculture, urbanization, infrastructure, and conflict. Results remain robust to global mineral price fluctuations and vary by mine size, mineral type, and ownership structure. Our findings highlight the broad environmental footprint of mining and the need for sustainable policies.
