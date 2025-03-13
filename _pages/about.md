@@ -17,7 +17,7 @@ During my thesis, I benefited from various training in economics, mining, energy
 Previously, I graduated with a Bachelor's and Master's (Magister) grade at [UCA (CERDI)](https://cerdi.uca.fr/#/admin).
 
 My research focuses on **Natural Resources** (*Mining*, *Oil*, and *Gas*), **Energy**, **Sustainable Development**, and **Development Economics** in **developing countries**.
-My recent and future work centers on climate change and crucial minerals for the green energy transition, such as nickel, rare earth elements, copper, cobalt, and energy access.
+My recent and future work centers on climate change, energy access, and crucial minerals for the transition to green energy.
 
 My research interests are:
 - <font size="4">Natural resources</font>
