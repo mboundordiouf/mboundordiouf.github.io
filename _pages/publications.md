@@ -38,13 +38,16 @@ The global energy transition is crucial but presents social and political challe
  Map: Number of conflict events in Africa 1997-2021 <br/><img src='/images/Map_number of ACLED events.png'>
  
 # Work in Progress
+# Energy Access and Malaria in Sub-Saharan Africa
+
+**Abstract**
+Access to electricity poses a significant challenge, particularly in rural areas of Sub-Saharan Africa. This lack of access does not mitigate the morbidity and mortality associated with malaria. This study examines the causal relationship between electricity access and malaria incidence, using high-resolution remote sensing data of malaria at 5 km and nationally representative data from the Demographic and Health Surveys (DHS) and child-level data from 25 Sub-Saharan countries. The findings indicate that people living in electrified areas are less likely to contract malaria. This study underscores the importance of electrification in Africa as a critical component in the fight against malaria, as it contributes to improving household income levels, access to preventive information, and overall living conditions.
+
+ Map: Malaria and Electricity Access at DHS cluster levels in SSA 2000-2013 <br/><img src='/images/Malaria_Electricity.png'>
+ 
 # Mining, Local Governance, and Urbanization in Sub-Saharan Africa
 with [Rose Camille Vincent](https://rosecamillevincent.com/)
 
  Map: Number of mines with size and type of minerals in Africa 1950-2019 <br/><img src='/images/Map_Mineral_Size_AFRICA_ok.PNG'>
-
-# Energy Access and Malaria in Sub-Saharan Africa
-
- Map: Malaria and Electricity Access at DHS cluster levels in SSA 2000-2013 <br/><img src='/images/Malaria_Electricity.png'>
 
 # Natural Disasters Kill Natural Resources: Is Mining Investment for Energy Transition Risk?
