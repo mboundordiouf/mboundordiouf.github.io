@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 * 2025
-  * Forthcoming: CSAE Oxford Conference: Economic Development in Africa, Oxford, UK.
+  * Forthcoming: Journées de Microéconomie Appliquée (JMA), at the University of Poitiers, France.
+  * CSAE Oxford Conference: Economic Development in Africa, Oxford, UK.
     
 * 2024
   * Seminaire at Université d'Orléans, LéO, Orléans, France.
