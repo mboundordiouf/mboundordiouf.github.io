@@ -54,7 +54,8 @@ ABS(UM6P)), Mines Paristech and the CR-Sahel.
 
 ## Communications
 * 2025
-  * Forthcoming: CSAE Oxford Conference: Economic Development in Africa, Oxford, UK.
+  * Forthcoming: Journées de Microéconomie Appliquée (JMA), at the University of poitiers, France.
+  * CSAE Oxford Conference: Economic Development in Africa, Oxford, UK.
 * 2024
   * Seminaire: School of Sustainability, ASU, Tempe, Arizona, USA.
   * Seminaire:  Université Orléans, LéO, Orléans, France.
