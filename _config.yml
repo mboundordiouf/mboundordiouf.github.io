@@ -78,11 +78,11 @@ analytics:
     tracking_id          :
 
 
-
+# "Diouf_web_profile.png" "Mboundor_profil_github.jpg" "Mboundor_profil.jpg"  "Mboundor_DIOUF_Photo_profil.jpg"
 # Site Author
 author:
   name             : "Mboundor Diouf"
-  avatar           : "Mboundor_DIOUF_Photo_profil.jpg"
+  avatar           : "Mboundor_profil.jpg"
   bio              : "Ph.D student in Economics"
   location         : "France"
   employer         :
