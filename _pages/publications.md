@@ -39,7 +39,8 @@ The global energy transition is crucial but presents social and political challe
  
 # Work in Progress
 # Energy Access and Malaria in Sub-Saharan Africa
-
+------
+with [Alpha LY](https://sites.google.com/view/alphaly/)
 **Abstract**
 Access to electricity poses a significant challenge, particularly in rural areas of Sub-Saharan Africa. This lack of access does not mitigate the morbidity and mortality associated with malaria. This study investigates the causal relationship between electricity access and the incidence of malaria in 25 Sub-Saharan countries, utilizing various sources of georeferenced data (DHS, Afrobarometer, Malaria Atlas, population, and night light) with different spatial levels (5km, DHS cluster, and child under 5 years). The findings indicate that people living in electrified areas are less likely to contract malaria. This study underscores the importance of electrification in Africa as a critical component in the fight against malaria, as it contributes to improving household income levels, improving access to preventive information, and improving overall living conditions.
 
