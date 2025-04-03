@@ -48,8 +48,10 @@ Access to electricity poses a significant challenge, particularly in rural areas
  Map: Impact of Electricity Access on Malaria Incidence Rate Among Children Under 5 Years Old <br/><img src='/images/fig_DHS_child5years.png'>
 
 # Mining, Local Governance, and Urbanization in Sub-Saharan Africa
+------
 with [Rose Camille Vincent](https://rosecamillevincent.com/)
 
  Map: Number of mines with size and type of minerals in Africa 1950-2019 <br/><img src='/images/Map_Mineral_Size_AFRICA_ok.PNG'>
 
 # Natural Disasters Kill Natural Resources: Is Mining Investment for Energy Transition Risk?
+------
