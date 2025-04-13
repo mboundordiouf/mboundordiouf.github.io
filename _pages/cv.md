@@ -10,7 +10,7 @@ redirect_from:
 A PDF version of my CV can be found <a href="https://github.com/mboundordiouf/My_CV/blob/main/CV_Mboundor_DIOUF.pdf" target="_blank" style="color:#33b8ff;">here.
 
 ## Academic positions
- * April 2025 - present: Consultant in Development Research Group
+ * April 2025 - present: Consultant in Development Research Group (DECRG)
    * World Bank Group, Washington DC, US.
 * 2024 - 2025: Temporary research and teaching assistant (ATER)
   * Université de Poitiers
