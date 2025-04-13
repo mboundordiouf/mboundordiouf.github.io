@@ -11,7 +11,7 @@ A PDF version of my CV can be found <a href="https://github.com/mboundordiouf/My
 
 ## Academic positions
  * April 2025 - present: Consultant in Development Research Group
-  * World Bank Group, Washington DC, US.
+   * World Bank Group, Washington DC, US.
 * 2024 - 2025: Temporary research and teaching assistant (ATER)
   * Université de Poitiers
 * 2021 - 2025: PhD student, full Research Grant (EIEA Chair)
