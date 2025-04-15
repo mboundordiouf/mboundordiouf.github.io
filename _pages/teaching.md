@@ -7,7 +7,7 @@ author_profile: true
 
 ## Université de Poitiers 
 
- * *2024 - 2025: ATER (Undergraduate and Masters)*
+ * *2024 - 2025: Teaching Assistant-ATER (Undergraduate and Masters)*
  * **Microeconomics**
  * **Macroeconomics**
  * **Economics Analysis** 
