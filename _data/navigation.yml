@@ -13,13 +13,15 @@ main:
     url: /publications/
 
  # - title: "Communication"
-  #  url: /talks/    
-
+  #  url: /talks/   
+  
+  - title: "CV"
+    url: /cv/
+    
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "CV"
-    url: /cv/
+
 
   - title: "Codes"
     url: /codes/
