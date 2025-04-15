@@ -15,7 +15,7 @@ author_profile: true
 * *2022 - present: Junior Lecter (Undergraduate)*
  * **History of Economics**
 
- ## Université Clermont Auvergne (Undergraduate)  
+ ## Université Clermont Auvergne  
 * *2020 - 2022: Junior Lecter (Undergraduate)*
  * **Mathematics and Statistics.**
 
