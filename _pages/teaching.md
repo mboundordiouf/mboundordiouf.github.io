@@ -4,15 +4,18 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-## 2024 - 2025: 
- * *ATER at Université de Poitiers*:
+
+## Université de Poitiers 
+ * *2024 - 2025: ATER (Undergraduate and Masters)*
  * **Microeconomics**
  * **Macroeconomics**
  * **Economics Analysis** 
- * Level: Bachelor
-## 2022 - present:
- * **History of Economics at University of Paris I, Panthéon-Sorbonne (IED-EDS)**
- * Level: Bachelor 
-## 2020 - 2022:
- * **Mathematics and Statistics at Université Clermont Auvergne.**
- * Level: Bachelor 
+
+## University of Paris I, Panthéon-Sorbonne 
+* *2022 - present: Junior Lecter (Undergraduate)*
+ * **History of Economics**
+
+ ## Université Clermont Auvergne (Undergraduate)  
+* *2020 - 2022: Junior Lecter (Undergraduate)*
+ * **Mathematics and Statistics.**
+
