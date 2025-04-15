@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Mboundor DIOUF"
+title: "Welcome!"
 excerpt: "Home"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal page!
 
 I am pursuing a Ph.D. in Development Economics at [University of Poitiers](https://www.univ-poitiers.fr/) and the [EIEA Chair (ABS-UM6P and Mines ParisTech)](https://www.cerna.minesparis.psl.eu/Recherche/EIEA/) under the supervision of [Ahmed Tritah](https://sites.google.com/site/ahmtritah/). Additionally, I am associated with the [LéP](https://lep.labo.univ-poitiers.fr/accueil/les-membres/diouf-mboundor/) and an Associate Researcher at the [Energy and Prosperity Chair](http://www.chair-energy-prosperity.org/en/category/research-fellows-1/mboundor-diouf-en/). Currently, I work at the World Bank Group as a consultant in the Development Research Group [DECRG](https://www.worldbank.org/en/about/unit/unit-dec/research), focusing specifically on the "Energy in Africa" Initiative.
 
