@@ -14,12 +14,12 @@ author_profile: true
 
 ## University of Paris I, Panthéon-Sorbonne 
 
-* *2022 - present: Junior Lecter (Undergraduate)*
+* *2022 - present: Teaching Assistant (Undergraduate)*
  * **History of Economics**
 
  ## Université Clermont Auvergne  
  
-* *2020 - 2022: Junior Lecter (Undergraduate)*
+* *2020 - 2022: Teaching Assistant (Undergraduate)*
  * **Mathematics and Statistics.**
 
 
