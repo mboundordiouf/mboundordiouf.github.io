@@ -1,3 +1,4 @@
+
 ---
 layout: archive
 title: "Teaching"
@@ -8,6 +9,7 @@ author_profile: true
 ## Université de Poitiers 
 
  * *2024 - 2025: Teaching Assistant-ATER (Undergraduate and Masters)*
+  
  * **Microeconomics**
  * **Macroeconomics**
  * **Economics Analysis** 
@@ -15,11 +17,13 @@ author_profile: true
 ## University of Paris I, Panthéon-Sorbonne 
 
 * *2022 - present: Teaching Assistant (Undergraduate)*
+  
  * **History of Economics**
 
  ## Université Clermont Auvergne  
  
 * *2020 - 2022: Teaching Assistant (Undergraduate)*
+ 
  * **Mathematics and Statistics.**
 
 
