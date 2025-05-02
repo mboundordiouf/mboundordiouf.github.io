@@ -10,9 +10,9 @@ author_profile: true
 
  * *2024 - 2025: Teaching Assistant-ATER (Undergraduate and Masters)*
   
- * **Microeconomics**
- * **Macroeconomics**
- * **Economics Analysis** 
+  * **Microeconomics**
+  * **Macroeconomics**
+  * **Economics Analysis** 
 
 ## University of Paris I, Panthéon-Sorbonne 
 
@@ -20,7 +20,7 @@ author_profile: true
   
  * **History of Economics**
 
- ## Clermont Auvergne University
+## Clermont Auvergne University
  
 * *2020 - 2022: Teaching Assistant (Undergraduate)*
  
