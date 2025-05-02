@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-## Université de Poitiers 
+## University of Poitiers
 
  * *2024 - 2025: Teaching Assistant-ATER (Undergraduate and Masters)*
   
@@ -20,7 +20,7 @@ author_profile: true
   
  * **History of Economics**
 
- ## Université Clermont Auvergne  
+ ## Clermont Auvergne University
  
 * *2020 - 2022: Teaching Assistant (Undergraduate)*
  
