@@ -20,7 +20,7 @@ author_profile: true
   
  * **History of Economics**
 
-## Clermont Auvergne University
+## Université Clermont Auvergne
  
 * *2020 - 2022: Teaching Assistant (Undergraduate)*
  
