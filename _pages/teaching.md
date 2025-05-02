@@ -5,6 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
+
 ## Université de Poitiers 
 
  * *2024 - 2025: Teaching Assistant-ATER (Undergraduate and Masters)*
