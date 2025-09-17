@@ -25,7 +25,7 @@ author_profile: true
  * **Macroeconomics**
  * **Economics Analysis** 
 
- ## Clermont Auvergne University
+## Clermont Auvergne University
  
 * *2020 - 2022: Teaching Assistant (Undergraduate)*
  
