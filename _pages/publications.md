@@ -20,7 +20,7 @@ Figure: Deforestation rate before/after mining discovered at cell and buffer zon
 
 </details>
 
-# Mining and Power: Energy Access in SSA
+# Mining and Power: Darkness or Lighting for Africa? 
 ------
 with [Nathan Johnson](https://search.asu.edu/profile/2183493) and [Tam Kemabonta ](https://scholar.google.com/citations?user=hrZlpwUAAAAJ&hl=en)
 **Working Paper**. Available upon request.
@@ -76,7 +76,7 @@ Map: Impact of Electricity Access on Malaria Incidence Rate Among Children Under
 with [Rose Camille Vincent](https://rosecamillevincent.com/)
 
 <details>
-<summary><strong>📄 Voir les figures</strong></summary>
+<summary><strong>📄 See Summary</strong></summary>
 
 Map: Number of mines with size and type of minerals in Africa 1950-2019 <br/><img src='/images/Map_Mineral_Size_AFRICA_ok.PNG'>
 
