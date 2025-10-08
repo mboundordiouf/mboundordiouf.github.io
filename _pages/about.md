@@ -21,9 +21,9 @@ My recent and future work centers on **Energy Access**, **Crucial Minerals for t
 You can download my CV [here](https://drive.google.com/file/d/1KuljDoZGbJcLObVedaBzGZ4qOir40VFC/view?usp=sharing).
 
 
-My research interests are:
-- <font size="4">Natural resources</font>
-- <font size="4">Energy Economics</font>
+%My research interests are:
+%- <font size="4">Natural resources</font>
+%- <font size="4">Energy Economics</font>
 - <font size="4">Environmental and Resource Economics</font>
 - <font size="4">Development economics</font>
 - <font size="4">Public Economics and Political Economy</font>
