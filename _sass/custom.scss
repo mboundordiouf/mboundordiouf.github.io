@@ -1,0 +1,49 @@
+/* ========================================
+   Personnalisations du site
+   ======================================== */
+
+/* Photo de profil - Carré et plus grand */
+.author__avatar img {
+    max-width: 200px !important;  /* Taille de l'image (ajustez selon vos besoins) */
+    border-radius: 8px !important;  /* Coins légèrement arrondis (0 pour carré parfait) */
+}
+
+/* Ajuster le conteneur de l'avatar */
+.author__avatar {
+    display: table-cell;
+    vertical-align: top;
+    width: 200px;  /* Doit correspondre à max-width ci-dessus */
+}
+
+/* Options supplémentaires (décommenter si souhaité) */
+
+/* Pour un carré parfait sans coins arrondis : */
+/*
+.author__avatar img {
+    border-radius: 0 !important;
+}
+*/
+
+/* Pour une image encore plus grande (250px ou 300px) : */
+/*
+.author__avatar img {
+    max-width: 250px !important;
+}
+.author__avatar {
+    width: 250px;
+}
+*/
+
+/* Ajouter une ombre portée : */
+/*
+.author__avatar img {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+*/
+
+/* Ajouter une bordure : */
+/*
+.author__avatar img {
+    border: 3px solid #f0f0f0;
+}
+*/
