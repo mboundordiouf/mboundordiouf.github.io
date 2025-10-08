@@ -11,7 +11,7 @@ author_profile: true
 with [Raja Chakir](https://sites.google.com/site/rajachakir/home) and [Ahmed Tritah](https://sites.google.com/site/ahmtritah/). Available upon request. 
 
 <details>
-<summary><strong>📄 Voir l'abstract et les figures</strong></summary>
+<summary><strong>📄 See Summary</strong></summary>
 
 **Abstract**: 
 This study examines the impact of mining on deforestation in Sub-Saharan Africa (2001–2018). Using geospatial data on 14 minerals and a Two-Way Fixed Effects Difference-in-Differences (TWFE-DID) approach, we find that mining significantly increases deforestation, with indirect effects exceeding direct ones and extending up to 80 km from mining sites. Causal mediation analysis identifies key mechanisms, including agriculture, urbanization, infrastructure, and conflict. Results remain robust to global mineral price fluctuations and vary by mine size, mineral type, and ownership structure. Our findings highlight the broad environmental footprint of mining and the need for sustainable policies.
@@ -26,7 +26,7 @@ with [Nathan Johnson](https://search.asu.edu/profile/2183493) and [Tam Kemabonta
 **Working Paper**. Available upon request.
 
 <details>
-<summary><strong>📄 Voir l'abstract et les figures</strong></summary>
+<summary><strong>📄See Summary</strong></summary>
 
 **Abstract**
 
@@ -44,7 +44,7 @@ with [Raphael Soubeyran](https://sites.google.com/site/soubeyranhomepage/) and [
 **Working Paper**. Available upon request.
 
 <details>
-<summary><strong>📄 Voir l'abstract et les figures</strong></summary>
+<summary><strong>📄 See Summary</strong></summary>
 
 **Abstract**
 
@@ -59,7 +59,7 @@ Map: Number of conflict events in Africa 1997-2021 <br/><img src='/images/Map_nu
 ------
 
 <details>
-<summary><strong>📄 Voir l'abstract et les figures</strong></summary>
+<summary><strong>📄 See Summary</strong></summary>
 
 **Abstract**
 
