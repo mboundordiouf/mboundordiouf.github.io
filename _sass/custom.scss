@@ -2,17 +2,20 @@
    Personnalisations du site
    ======================================== */
 
-/* Photo de profil - Carré et plus grand */
+/* Photo de profil - Rectangle horizontal (paysage) */
 .author__avatar img {
-    max-width: 400px !important;  /* Taille de l'image (ajustez selon vos besoins) */
-    border-radius: 8px !important;  /* Coins légèrement arrondis (0 pour carré parfait) */
+    max-width: 280px !important;  /* Largeur du rectangle */
+    width: 280px !important;
+    height: 200px !important;  /* Hauteur du rectangle */
+    object-fit: cover !important;  /* Recadrage automatique pour remplir le rectangle */
+    border-radius: 8px !important;  /* Coins légèrement arrondis (0 pour rectangle parfait) */
 }
 
 /* Ajuster le conteneur de l'avatar */
 .author__avatar {
     display: table-cell;
     vertical-align: top;
-    width: 200px;  /* Doit correspondre à max-width ci-dessus */
+    width: 280px;  /* Doit correspondre à max-width ci-dessus */
 }
 
 /* Options supplémentaires (décommenter si souhaité) */
