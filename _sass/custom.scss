@@ -4,8 +4,8 @@
 
 /* Photo de profil - Rectangle horizontal (paysage) */
 .author__avatar img {
-    max-width: 240px !important;  /* Largeur du rectangle */
-    width: 240px !important;
+    max-width: 230px !important;  /* Largeur du rectangle */
+    width: 230px !important;
     height: 320px !important;  /* Hauteur du rectangle */
     object-fit: cover !important;  /* Recadrage automatique pour remplir le rectangle */
     border-radius: 8px !important;  /* Coins légèrement arrondis (0 pour rectangle parfait) */
@@ -15,7 +15,7 @@
 .author__avatar {
     display: table-cell;
     vertical-align: top;
-    width: 240px;  /* Doit correspondre à max-width ci-dessus */
+    width: 230px;  /* Doit correspondre à max-width ci-dessus */
 }
 
 /* Options supplémentaires (décommenter si souhaité) */
