@@ -7,5 +7,5 @@ redirect_from:
 ---
 
 
-  Download <a href="https://drive.google.com/file/d/1oTx99cZMmAGoEcuJypWrTYDmqMjrD5m6/view?usp=sharing" target="_blank" style="color:#33b8ff;">CV.
+  Download <a href="https://drive.google.com/file/d/1B6JQioP9if-QjH_lQG24IUgDGLHzIDHH/view?usp=sharing" target="_blank" style="color:#33b8ff;">CV.
 
