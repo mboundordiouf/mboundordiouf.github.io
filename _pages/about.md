@@ -18,7 +18,7 @@ Previously, I graduated with a Bachelor's and Master's (Magister) grade at [UCA 
 My research focuses on **Natural Resources** (*Mining*, *Oil*, and *Gas*), **Energy Access**, **Sustainable Development**, and **Development Economics** in **developing countries**.
 My recent and future work centers on **Energy Access**, **Crucial Minerals for the Energy Transition**, **Sustainable Development**, and **Climate Change**.
 
-You can download my CV [here](https://drive.google.com/file/d/1oTx99cZMmAGoEcuJypWrTYDmqMjrD5m6/view?usp=sharing).
+You can download my CV [here](https://drive.google.com/file/d/1B6JQioP9if-QjH_lQG24IUgDGLHzIDHH/view?usp=sharing).
 
 
 
