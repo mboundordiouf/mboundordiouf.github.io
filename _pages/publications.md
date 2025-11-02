@@ -7,7 +7,7 @@ author_profile: true
 
 
 # Under the Canopy: Mining and Deforestation in Sub-Saharan Africa
-
+------
 with [Raja Chakir](https://sites.google.com/site/rajachakir/home) and [Ahmed Tritah](https://sites.google.com/site/ahmtritah/). Available upon request. 
 
 <details>
@@ -18,7 +18,7 @@ with [Raja Chakir](https://sites.google.com/site/rajachakir/home) and [Ahmed Tri
 Figure: Deforestation rate before/after mining discovered at cell and buffer zone levels <br/><img src='/images/RESULTdeforstation.jpg'>
 
 </details>
-------
+
 
 # More than light: Energy and malaria in africa
 ------
