@@ -70,12 +70,5 @@ Map: Number of conflict events in Africa 1997-2021 <br/><img src='/images/africa
 ------
 with [Rose Camille Vincent](https://rosecamillevincent.com/)
 
-<details>
-<summary><strong>📄 See Summary</strong></summary>
-
-Map: Number of mines with size and type of minerals in Africa 1950-2019 <br/><img src='/images/Map_Mineral_Size_AFRICA_ok.PNG'>
-
-</details>
-
 # Natural Disasters Kill Natural Resources: Is Mining Investment for Energy Transition Risk?
 ------
