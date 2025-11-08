@@ -7,7 +7,7 @@ author_profile: true
 
 # More than light: Energy and malaria in Sub-Saharan Africa
 ------
-App Shiny (Wait 10 seconds to show Correlation:Senegal)  <a href="https://diouf.shinyapps.io/Energy_Malaria_SEN_fin/" target="_blank" style="color:#33b8ff;">here</a>
+App Shiny (Wait 10 seconds to show Correlation: Senegal)  <a href="https://diouf.shinyapps.io/Energy_Malaria_SEN_fin/" target="_blank" style="color:#33b8ff;">here</a>
 <details>
 <summary><strong>📄 See Summary</strong></summary>
  
