@@ -8,13 +8,13 @@ author_profile: true
 # More than light: Energy and malaria in Sub-Saharan Africa
 ------
 App Shiny (Senegalese Study: Correlation between Electricity and Malaria)  <a href="https://diouf.shinyapps.io/Energy_Malaria_SEN_fin/" target="_blank" style="color:#33b8ff;">here</a>
+
 <details>
 <summary><strong>📄 See Summary</strong></summary>
  
 Access to electricity poses a significant challenge, particularly in rural areas of Sub-Saharan Africa. This lack of access does not mitigate the morbidity and mortality associated with malaria. This study investigates the causal relationship between electricity access and the incidence of malaria in 25 Sub-Saharan countries, utilizing various sources of georeferenced data (DHS, Afrobarometer, Malaria Atlas, population, and night light) with different spatial levels (5km, DHS cluster, and child under 5 years). The findings indicate that people living in electrified areas are less likely to contract malaria. This study underscores the importance of electrification in Africa as a critical component in the fight against malaria, as it contributes to improving household income levels, improving access to preventive information, and improving overall living conditions.
 
  Map: Malaria and Electricity Access at DHS cluster levels in SSA 1997-2021 <br/><img src='/images/Malaria_Electricity.png'>
- 
 </details>
 
 # Mining and Power: Darkness or Lighting for Africa? 
