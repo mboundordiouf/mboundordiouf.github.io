@@ -1,5 +1,5 @@
 ---
-permalink: /codes/
+permalink: /Visualisation/
 title: "App and visualisation"
 author_profile: true
 ---
