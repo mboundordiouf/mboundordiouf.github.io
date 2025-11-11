@@ -1,6 +1,6 @@
 ---
 permalink: /codes/
-title: "Codes"
+title: "App and visualisation"
 author_profile: true
 ---
 
