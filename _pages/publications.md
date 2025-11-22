@@ -47,8 +47,7 @@ Map: Number of conflict events in Africa 1997-2021 <br/><img src='/images/africa
 
 </details>
 
-
- # Under the Canopy: Mining and Deforestation in Sub-Saharan Africa
+# Under the Canopy: Mining and Deforestation in Sub-Saharan Africa
 ------
 with [Raja Chakir](https://sites.google.com/site/rajachakir/home) and [Ahmed Tritah](https://sites.google.com/site/ahmtritah/). Available upon request. 
 
