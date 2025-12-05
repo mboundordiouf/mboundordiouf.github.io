@@ -87,7 +87,7 @@ author:
   location         : "France, Morocco"
   employer         :
   pubmed           :
-  googlescholar    : # example: "https://scholar.google.fr/citations?user=_UkG99QAAAAJ&hl=fr"
+  googlescholar    : "https://scholar.google.fr/citations?view_op=list_works&hl=fr&hl=fr&user=ckioPsIAAAAJ&sortby=pubdate"
   email            : "dioufmboundor@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
