@@ -5,14 +5,27 @@ permalink: /publications/
 author_profile: true
 ---
 
-# More than light: Energy and malaria in Sub-Saharan Africa
+# Light and Disease: Mining-Electrification and Malaria in Africa
 ------
 App Shiny (Senegalese Study: Correlation between Electricity and Malaria)  <a href="https://diouf.shinyapps.io/Energy_Malaria_SEN_fin/" target="_blank" style="color:#33b8ff;">here</a>
 
 <details>
 <summary><strong>📄 See Summary</strong></summary>
  
-Access to electricity poses a significant challenge, particularly in rural areas of Sub-Saharan Africa. This lack of access does not mitigate the morbidity and mortality associated with malaria. This study investigates the causal relationship between electricity access and the incidence of malaria in 25 Sub-Saharan countries, utilizing various sources of georeferenced data (DHS, Afrobarometer, Malaria Atlas, population, and night light) with different spatial levels (5km, DHS cluster, and child under 5 years). The findings indicate that people living in electrified areas are less likely to contract malaria. This study underscores the importance of electrification in Africa as a critical component in the fight against malaria, as it contributes to improving household income levels, improving access to preventive information, and improving overall living conditions.
+We estimate the causal effect of industrial mining on malaria incidence across 45
+sub-Saharan African countries over 2000--2022. Exploiting the timing of mine
+discoveries and production starts in a difference-in-differences framework, we find
+that mining increases malaria incidence by 13 cases per 1,000 within 10 km, with
+spillover effects of 24 cases per 1,000 at 10--25 km that remain significant up to
+100 km from the mine. The health burden falls almost entirely on poor households,
+while electricity access gains disproportionately benefit the wealthy --- revealing
+a systematic transfer of costs to the poor and benefits to the rich within the same
+communities. Energy access substantially moderates these externalities: above-median
+electricity households experience effects less than half those of low-electricity
+households, and spillover effects vanish entirely. These findings imply that the
+epidemiological footprint of mining is far broader than previously recognised, and
+that resource extraction systematically widens health inequality within affected
+communities.
 
  Map: Malaria and Electricity Access at DHS cluster levels in SSA 1997-2021 <br/><img src='/images/Malaria_Electricity.png'>
 </details>
