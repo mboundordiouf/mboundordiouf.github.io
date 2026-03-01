@@ -12,20 +12,7 @@ App Shiny (Senegalese Study: Correlation between Electricity and Malaria)  <a hr
 <details>
 <summary><strong>📄 See Summary</strong></summary>
  
-We estimate the causal effect of industrial mining on malaria incidence across 45
-sub-Saharan African countries over 2000--2022. Exploiting the timing of mine
-discoveries and production starts in a difference-in-differences framework, we find
-that mining increases malaria incidence by 13 cases per 1,000 within 10 km, with
-spillover effects of 24 cases per 1,000 at 10--25 km that remain significant up to
-100 km from the mine. The health burden falls almost entirely on poor households,
-while electricity access gains disproportionately benefit the wealthy --- revealing
-a systematic transfer of costs to the poor and benefits to the rich within the same
-communities. Energy access substantially moderates these externalities: above-median
-electricity households experience effects less than half those of low-electricity
-households, and spillover effects vanish entirely. These findings imply that the
-epidemiological footprint of mining is far broader than previously recognised, and
-that resource extraction systematically widens health inequality within affected
-communities.
+We study the impact of industrial mine openings on malaria incidence in 45 sub-Saharan African countries from 2000 to 2022. Using a difference-in-differences design, we find that mining increases malaria cases by 13 per 1,000 population within 10 km, with spillovers of up to 24 additional cases per 1,000 within 25 km and detectable effects extending to 100 km. These impacts are primarily driven by mining-induced deforestation, which expands mosquito breeding habitat, while improved energy access around mines partially mitigates transmission. As a result, poorer households disproportionately bear the malaria burden, whereas wealthier residents capture most of the electrification gains, implying a regressive distribution of welfare. The findings underscore that the epidemiological footprint of mining is large and spatially diffuse, and that broad-based electrification in surrounding communities may yield both health and economic benefits.
 
  Map: Malaria and Electricity Access at DHS cluster levels in SSA 1997-2021 <br/><img src='/images/Malaria_Electricity.png'>
 </details>
