@@ -6,14 +6,19 @@
 
 
 main:
+
 - title: "Home"
     url: /
+    
 - title: "Research"
     url: /publications/
+    
 - title: "Visualisation"
     url: /codes/
+    
 - title: "Teaching"
     url: /teaching/   
+    
 - title: "CV"
     url: /cv/
        
