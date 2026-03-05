@@ -12,14 +12,14 @@ main:
   - title: "Research"
     url: /publications/
     
-  - title: "Visualisation"
-    url: /codes/
-    
   - title: "Teaching"
     url: /teaching/   
     
   - title: "CV"
     url: /cv/
+
+  - title: "Visualisation"
+    url: /codes/
        
   #- title: "Media"
    # url: /portfolio/
