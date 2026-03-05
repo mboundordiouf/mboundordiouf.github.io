@@ -87,7 +87,7 @@ author:
   location         : "France"
   employer         :
   pubmed           :
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=ckioPsIAAAAJ&hl=fr"
   email            : "dioufmboundor@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
