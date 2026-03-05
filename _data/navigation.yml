@@ -6,23 +6,16 @@
 
 
 main:
-  - title: "Home"
+- title: "Home"
     url: /
-
-  - title: "Research"
+- title: "Research"
     url: /publications/
-    
-  - title: "Visualisation"
+- title: "Visualisation"
     url: /codes/
-
-  - title: "Teaching"
+- title: "Teaching"
     url: /teaching/   
-  
-  - title: "CV"
+- title: "CV"
     url: /cv/
-    
-
-
-    
+       
   #- title: "Media"
    # url: /portfolio/
