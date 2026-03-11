@@ -64,7 +64,7 @@ Figure: Deforestation rate before/after mining discovered at cell and buffer zon
 
 # Mining, Local Governance, and Urbanization in Sub-Saharan Africa
 ------
-with [Rose Camille Vincent](https://rosecamillevincent.com/)
+with Rose Camille Vincent
 
 # Natural Disasters Kill Natural Resources: Is Mining Investment for Energy Transition Risk?
 ------
