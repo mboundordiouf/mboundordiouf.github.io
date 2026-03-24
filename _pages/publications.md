@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-*# Light and Disease: Mining-Electrification and Malaria in Africa ( <a href="https://www.dropbox.com/scl/fi/x42vtos0zq8v30fqzzgm3/Job_Market_Mining_Energy_Malaria_in_SSA.pdf?rlkey=ztmfpia0w920hjgy199tqbnc8&e=5&st=wy7zklp3&dl=0" target="_blank" style="color:#33b8ff;">Job-Market</a>)
+%# Light and Disease: Mining-Electrification and Malaria in Africa ( <a href="https://www.dropbox.com/scl/fi/x42vtos0zq8v30fqzzgm3/Job_Market_Mining_Energy_Malaria_in_SSA.pdf?rlkey=ztmfpia0w920hjgy199tqbnc8&e=5&st=wy7zklp3&dl=0" target="_blank" style="color:#33b8ff;">Job-Market</a>)
 # Light and Disease: Mining-Electrification and Malaria in Africa
 ------
 App Shiny (Senegalese Study: Correlation between Electricity and Malaria)  <a href="https://diouf.shinyapps.io/Energy_Malaria_SEN_fin/" target="_blank" style="color:#33b8ff;">here</a>
