@@ -6,8 +6,6 @@ author_profile: true
 ---
 # Light and Disease: Mining-Electrification and Malaria in Africa
 ------
-App Shiny (Senegalese Study: Correlation between Electricity and Malaria)  <a href="https://diouf.shinyapps.io/Energy_Malaria_SEN_fin/" target="_blank" style="color:#33b8ff;">here</a>
-
 <details>
 <summary><strong>📄 See Summary</strong></summary>
  
