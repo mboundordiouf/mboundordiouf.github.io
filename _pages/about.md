@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 **News**: From April to May 2026, I will be visiting as a visiting researcher at Harvard University - Center for International Development (CID), Cambridge, USA.
-From March to April 2026, I will be visiting the École Normale Supérieure de Lyon (ENS Lyon), within the CERGIC.
+**News**: From March to April 2026, I will be visiting the École Normale Supérieure de Lyon (ENS Lyon), within the CERGIC.
 
 I am a  [Lecturer (ater)](https://www.pantheonsorbonne.fr/page-perso/mboundor.diouf%40) at the University of Paris I, Panthéon-Sorbonne. Additionally, I am a Research Fellow at the [Energy and Prosperity Chair](http://www.chair-energy-prosperity.org/en/category/research-fellows-1/mboundor-diouf-en/) and the [EIEA Chair (ABS-UM6P and Mines ParisTech)](https://www.linkedin.com/company/eiea-um6p/). I obtained my PhD in Economics from the [University of Poitiers](https://www.univ-poitiers.fr/) and the [EIEA Chair (ABS-UM6P and Mines ParisTech)](https://www.linkedin.com/company/eiea-um6p/). Recently, I worked at the World Bank Group as a consultant in the Development Research Group (DECRG), focusing specifically on the ["Energy in Africa"](https://www.worldbank.org/en/about/unit/unit-dec/research/initiatives#7) Initiative.
 
