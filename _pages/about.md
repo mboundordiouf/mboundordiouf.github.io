@@ -1,25 +1,35 @@
 ---
 permalink: /
-title: "Welcome to my website!"
+title: ""
 excerpt: "Home"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-**News**: From April to May 2026, I will be visiting as a visiting researcher at Harvard University - Center for International Development (CID), Cambridge, USA.
 
-**News**: From March to April 2026, I will be visiting the École Normale Supérieure de Lyon (ENS Lyon), within the CERGIC.
+## About me
 
-I am a  [Lecturer (ater)](https://www.pantheonsorbonne.fr/page-perso/mboundor.diouf%40) at the University of Paris I, Panthéon-Sorbonne. Additionally, I am a Research Fellow at the [Energy and Prosperity Chair](http://www.chair-energy-prosperity.org/en/category/research-fellows-1/mboundor-diouf-en/) and the [EIEA Chair (ABS-UM6P and Mines ParisTech)](https://www.linkedin.com/company/eiea-um6p/). I obtained my PhD in Economics from the [University of Poitiers](https://www.univ-poitiers.fr/) and the [EIEA Chair (ABS-UM6P and Mines ParisTech)](https://www.linkedin.com/company/eiea-um6p/). Recently, I worked at the World Bank Group as a consultant in the Development Research Group (DECRG), focusing specifically on the ["Energy in Africa"](https://www.worldbank.org/en/about/unit/unit-dec/research/initiatives#7) Initiative.
+I am a **Lecturer (ATER)** at the [University of Paris I — Panthéon-Sorbonne](https://www.pantheonsorbonne.fr/page-perso/mboundor.diouf@) and a **Research Fellow** at the [Energy and Prosperity Chair](http://www.chair-energy-prosperity.org/en/category/research-fellows-1/mboundor-diouf-en/) and the [EIEA Chair](https://www.linkedin.com/company/eiea-um6p/) (ABS-UM6P & Mines ParisTech).
 
-During my thesis, I benefited from various training in economics, mining, energy, environmental economics, spatial econometrics, and GIS during my visit as a scholar to ASU (6 months), University of Coimbra (1 month), Friedrich Schiller University Jena (7 days), and UM6P (1.5 years), as well as short stays at Columbia University (7 days) and University of Oxford (7 days).
+I hold a **PhD in Economics** from the University of Poitiers and the EIEA Chair. My thesis was developed across multiple institutions, including extended stays at **Arizona State University** (6 months), **UM6P** (18 months), the **University of Coimbra**, and **Friedrich Schiller University Jena**, with short visits to **Columbia University** and the **University of Oxford**.
 
-Previously, I graduated with a Bachelor's and Master's (Magister) grade at [UCA (CERDI)](https://cerdi.uca.fr/#/admin).
+Prior to my current position, I worked as a **Consultant** at the **World Bank Group** (Development Research Group), contributing to the [Energy in Africa](https://www.worldbank.org/en/about/unit/unit-dec/research/initiatives#7) initiative. I have also recently been a **Visiting Researcher** at **Harvard University — Center for International Development** (CID) and at the **École Normale Supérieure de Lyon** (ENS Lyon, CERGIC).
 
-My research focuses on **Natural Resources** (*Mining*, *Oil*, and *Gas*), **Energy Access**, **Crucial Minerals for the Energy Transition** ([App](https://diouf.shinyapps.io/Mboundor-Critical-Minerals-World-App/)), **Climate Change**, **Environment**, and **Development Economics** in **developing countries**.
+I hold a Bachelor's and Master's (Magister) from [Université Clermont Auvergne — CERDI](https://cerdi.uca.fr/).
 
-You can download my CV [here](https://drive.google.com/file/d/1B6JQioP9if-QjH_lQG24IUgDGLHzIDHH/view?usp=sharing).
+---
 
+## Research interests
 
+My work lies at the intersection of **development economics** and the economics of **natural resources** and **energy**, with a focus on developing countries. Current topics include:
+
+- Natural resources: mining, oil & gas
+- Energy access & the energy transition
+- Critical minerals ([Interactive App](https://diouf.shinyapps.io/Mboundor-Critical-Minerals-World-App/))
+- Climate change & environmental economics
+
+---
+
+📄 [Download my CV](https://drive.google.com/file/d/1B6JQioP9if-QjH_lQG24IUgDGLHzIDHH/view?usp=sharing)
 
