@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## About me
+## Welcome to my website!
 
 I am a **Lecturer (ATER)** at the [University of Paris I — Panthéon-Sorbonne](https://www.pantheonsorbonne.fr/page-perso/mboundor.diouf@) and a **Research Fellow** at the [Energy and Prosperity Chair](http://www.chair-energy-prosperity.org/en/category/research-fellows-1/mboundor-diouf-en/) and the [EIEA Chair](https://www.linkedin.com/company/eiea-um6p/) (ABS-UM6P & Mines ParisTech).
 
