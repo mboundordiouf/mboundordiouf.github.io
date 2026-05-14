@@ -28,6 +28,7 @@ My work lies at the intersection of **development economics** and the economics 
 - Energy access & the energy transition
 - Critical minerals ([Interactive App](https://diouf.shinyapps.io/Mboundor-Critical-Minerals-World-App/))
 - Climate change & environmental economics
+- Conflicts
 
 ---
 
