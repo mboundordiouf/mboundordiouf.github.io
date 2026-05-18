@@ -9,7 +9,25 @@ author_profile: true
 <details>
 <summary><strong>📄 See Summary</strong></summary>
  
-I study the impact of industrial mine discoveries/openings on malaria incidence in 45 sub-Saharan African countries from 2000 to 2022. Using a difference-in-differences design, I find that mining increases malaria cases by 13 per 1,000 population within 10 km, with spillovers of up to 24 additional cases per 1,000 within 25 km and detectable effects extending to 100 km. These impacts are primarily driven by mining-induced deforestation, which expands mosquito breeding habitat, while improved energy access around mines partially mitigates transmission. As a result, poorer households disproportionately bear the malaria burden, whereas wealthier residents capture most of the electrification gains, implying a regressive distribution of welfare. The findings underscore that the epidemiological footprint of mining is large and spatially diffuse, and that broad-based electrification in surrounding communities may yield both health and economic benefits.
+I study the health externalities of industrial mining using 1.6 million
+grid\mbox{-}cell--year observations for 45 sub-Saharan African countries
+from 2000 to 2022. Exploiting staggered mine discoveries in a ring-based
+difference-in-differences design, I find that mining increases annual
+malaria incidence by 35 cases per 1,000 (+10.5\% relative to baseline),
+prevalence by 6.2 percentage points (+21.4\%), and mortality by
+9.6 deaths per 100,000 (+9.3\%) in a 5\,km grid cell exposed to mining,
+with effects 3 to 4 times larger at 10--50\,km than within 10\,km of the
+mine. Cumulating over a 15-year horizon, these translate into a
+$+$158.2\% increase in incidence, $+$140.1\% in prevalence, and
+$+$320.6\% in mortality relative to pre-treatment levels --- the
+mortality burden accelerating as immunity erodes and health systems are
+strained. Deforestation is the dominant mechanism and fully
+explains the malaria premium of artisanal gold mining, whose effects are
+4--8 times larger than those of formal operations. Mine-induced
+electrification attenuates but does not offset these impacts, and the net
+health costs fall disproportionately on poor households, who bear most
+of the deforestation burden while richer households capture
+electrification gains.
 
  Map: Malaria and Electricity Access at DHS cluster levels in SSA 1997-2021 <br/><img src='/images/Malaria_Electricity.png'>
 </details>
