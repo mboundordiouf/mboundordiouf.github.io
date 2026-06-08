@@ -22,7 +22,7 @@ I hold a Bachelor's and Master's (Magister) from [Université Clermont Auvergne 
 
 ## Research interests
 
-My work lies at the intersection of **development economics** and the economics of **natural resources** and **energy**, with a focus on developing countries. Current topics include:
+My work lies at the intersection of **development economics** and the economics of **natural resources** and **energy**. Current topics include:
 
 - Natural resources: mining, oil & gas
 - Energy access & the energy transition
