@@ -1,6 +1,6 @@
 ---
 title: "Show photos"
-excerpt: "<br/><img src='/images/300x300.png'>"
+excerpt: "<br/><img src='/images/100x100.png'>"
 ---
 
 ---
