@@ -33,3 +33,10 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 @import "custom";  // ← AJOUTEZ CETTE LIGNE
+
+.post-photo {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0.5rem 0;
+}
