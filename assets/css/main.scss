@@ -1,5 +1,3 @@
----
----
 /*
  *    Minimal Mistakes Jekyll Theme
  *
@@ -8,14 +6,44 @@
  *  - https://twitter.com/mmistakes
  *
 */
+@import "vendor/breakpoint/breakpoint"; // media query mixins
+@import "variables";
+@import "mixins";
+@import "vendor/susy/susy";
+@import "reset";
+@import "base";
+@import "utilities";
+@import "animations";
+@import "tables";
+@import "buttons";
+@import "notices";
+@import "masthead";
+@import "navigation";
+@import "footer";
+@import "syntax";
+@import "forms";
+@import "page";
+@import "archive";
+@import "sidebar";
+@import "vendor/font-awesome/fontawesome";
+@import "vendor/font-awesome/solid";
+@import "vendor/font-awesome/brands";
+@import "vendor/magnific-popup/magnific-popup";
+@import "print";
+@import "custom";
 
-
+// Images des articles : taille normalisée
 img {
-  max-width: 600px;   /* largeur max fixe, ajustez selon vos besoins */
-  width: 100%;        /* s'adapte si l'écran est plus petit */
+  max-width: 600px;
+  width: 100%;
   height: auto;
   border-radius: 10px;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
   display: block;
   margin: 1rem auto;
+  transition: transform 0.2s ease;
+}
+
+img:hover {
+  transform: scale(1.02);
 }
