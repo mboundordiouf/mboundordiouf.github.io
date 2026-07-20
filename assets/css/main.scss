@@ -32,17 +32,5 @@
 @import "print";
 @import "custom";  // ← AJOUTEZ CETTE LIGNE
 
-img {
-  max-width: 100%;
-  height: auto;
-  border-radius: 10px;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
-  display: block;
-  margin: 1rem auto;
-  transition: transform 0.2s ease;
-}
 
-img:hover {
-  transform: scale(1.02);
-}
 
