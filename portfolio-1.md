@@ -1,24 +1,24 @@
 ---
 title: "Show photos"
-excerpt: "<br/><img src='/images/500x300.png'>"
----
-
----
-Mineral discovery center in Arizona <br/><img src='/images/IMG_0244.jpg'>
+excerpt: "![Photo](/images/500x300.png)"
 ---
 ---
-Type of minerals<br/><img src='/images/IMG_02300.jpg'>
+Mineral discovery center in Arizona
+![Mineral discovery center](/images/IMG_0244.jpg)
 ---
-
 ---
-Inside mining industry: treatment of mineral<br/><img src='/images/IMG_0429.jpg'>
+Type of minerals
+![Type of minerals](/images/IMG_02300.jpg)
 ---
-
 ---
-EOpen-pit map <br/><img src='/images/IMG_0250.jpg'>
+Inside mining industry: treatment of mineral
+![Mineral treatment](/images/IMG_0429.jpg)
 ---
-
 ---
-Open-pit map<br/><img src='/images/IMG_0274.jpg'>
+Open-pit map
+![Open-pit map](/images/IMG_0250.jpg)
 ---
-
+---
+Open-pit map
+![Open-pit map](/images/IMG_0274.jpg)
+---
