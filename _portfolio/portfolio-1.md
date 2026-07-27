@@ -1,6 +1,5 @@
 ---
-title: " Show Photos"
-excerpt: "Mining"
+title: "Mineral discovery center in Arizona"
 ---
 Mineral discovery center in Arizona
 ![Mineral discovery center](/images/IMG_0244.jpg)
