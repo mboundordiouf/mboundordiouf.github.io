@@ -1,7 +1,6 @@
 ---
-title: " "
-excerpt: ""
-classes: hide-title
+title: " Show Photos"
+excerpt: "Mining"
 ---
 Mineral discovery center in Arizona
 ![Mineral discovery center](/images/IMG_0244.jpg)
