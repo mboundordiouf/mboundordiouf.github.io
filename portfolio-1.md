@@ -1,6 +1,6 @@
 ---
 title: " "
-excerpt: ""
+excerpt: " "
 classes: hide-title
 ---
 Mineral discovery center in Arizona
